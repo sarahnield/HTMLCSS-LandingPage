@@ -17,8 +17,8 @@ section {display: flex;}
 .flex-one { flex: 1;}
 
 .align-center {align-items: center;}
-.centre {justify-content: center;}
-.space-between { justify-content: : space-between;}
+.center {justify-content: center;}
+.space-between { justify-content: space-between;}
 
 .btn {
   cursor: pointer;
@@ -36,6 +36,6 @@ section {display: flex;}
   color: #8598a2;
   line-height: 1.4;
 }
-.text-light { font-size: : 30px; color: #a0a0a0;}
-.text-secondary { font-size: : 30px; color: #faa541;}
-.text-primary { font-size: : 16px; color: #364147;}
+.text-light { font-size: 30px; color: #a0a0a0;}
+.text-secondary { font-size: 30px; color: #faa541;}
+.text-primary { font-size: 16px; color: #364147;}
